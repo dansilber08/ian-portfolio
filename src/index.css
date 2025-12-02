@@ -142,3 +142,9 @@
     stroke-dashoffset: 0;
   }
 }
+body {
+  margin: 0;
+  background-color: #111111; /* fondo negro */
+  color: #ffffff;            /* texto blanco */
+  font-family: 'JetBrains Mono', monospace;
+}
